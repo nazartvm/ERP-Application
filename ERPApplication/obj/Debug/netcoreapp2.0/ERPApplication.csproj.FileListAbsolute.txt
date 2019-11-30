@@ -1,0 +1,12 @@
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\bin\Debug\netcoreapp2.0\ERPApplication.deps.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\bin\Debug\netcoreapp2.0\ERPApplication.runtimeconfig.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\bin\Debug\netcoreapp2.0\ERPApplication.runtimeconfig.dev.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\bin\Debug\netcoreapp2.0\ERPApplication.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\bin\Debug\netcoreapp2.0\ERPApplication.pdb
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.csprojAssemblyReference.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.AssemblyInfoInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.AssemblyInfo.cs
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication\obj\Debug\netcoreapp2.0\ERPApplication.pdb

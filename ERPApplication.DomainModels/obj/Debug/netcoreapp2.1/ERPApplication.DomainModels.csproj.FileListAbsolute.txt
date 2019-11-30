@@ -1,0 +1,12 @@
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\bin\Debug\netcoreapp2.1\ERPApplication.DomainModels.deps.json
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\bin\Debug\netcoreapp2.1\ERPApplication.DomainModels.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\bin\Debug\netcoreapp2.1\ERPApplication.DomainModels.pdb
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\bin\Debug\netcoreapp2.1\ERPApplication.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\bin\Debug\netcoreapp2.1\ERPApplication.pdb
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.csprojAssemblyReference.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.AssemblyInfo.cs
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.csproj.CopyComplete
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.dll
+C:\Users\Aktrea\Documents\Visual Studio 2017\Projects\ERPApplication\ERPApplication.DomainModels\obj\Debug\netcoreapp2.1\ERPApplication.DomainModels.pdb
