@@ -18,5 +18,6 @@ namespace ERPApplication.DomainModels.Company
             get;
             set;
         }
+        public string sampleadditional{get;set;}
     }
 }
